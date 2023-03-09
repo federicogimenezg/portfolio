@@ -1,0 +1,38 @@
+
+#principal {
+    border:solid 1px #cccccc;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background:#71e7f0;
+    font-family: 'Roboto', sans-serif;
+}
+
+fieldset {
+margin-bottom: 10px;
+}
+
+legend {
+    border: solid 1px #71e7f0;
+    padding: 5px;
+    font-weight: bold;
+    background: #cccccc;
+    border-radius: 15px;
+}
+
+#mifoto {
+    border: solid 2px;
+    margin: 10px;
+}
+
+#habilidades {
+    padding: 5px;
+}
+
+body {
+    background:url(imagenes/matrix.jpg);
+}
+
+.form {
+    
+}
